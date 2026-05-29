@@ -12,11 +12,11 @@ SignalState dirancang menggunakan arsitektur modular untuk memisahkan proses dat
 
 Platform ini mampu:
 
-* Mengumpulkan berita secara otomatis dari berbagai portal nasional
-* Melakukan analisis sentimen dan toksisitas
-* Mengelompokkan isu berdasarkan kategori
-* Menampilkan monitoring dashboard real-time
-* Menghasilkan insight berbasis data media publik
+- Mengumpulkan berita secara otomatis dari berbagai portal nasional
+- Melakukan analisis sentimen dan toksisitas
+- Mengelompokkan isu berdasarkan kategori
+- Menampilkan monitoring dashboard real-time
+- Menghasilkan insight berbasis data media publik
 
 ---
 
@@ -24,27 +24,27 @@ Platform ini mampu:
 
 ### Real-Time Data Ingestion
 
-* Multi-source RSS aggregation
-* Automated scheduled polling
-* Duplicate filtering & content cleaning
+- Multi-source RSS aggregation
+- Automated scheduled polling
+- Duplicate filtering & content cleaning
 
 ### NLP Intelligence Engine
 
-* Sentiment analysis
-* Toxicity detection
-* Issue clustering
-* Keyword extraction
-* Entity extraction
-* Priority classification
+- Sentiment analysis
+- Toxicity detection
+- Issue clustering
+- Keyword extraction
+- Entity extraction
+- Priority classification
 
 ### Interactive Dashboard
 
-* Real-time monitoring
-* Sentiment analytics
-* Live intelligence feed
-* Trend visualization
-* Issue alerts
-* Platform statistics
+- Real-time monitoring
+- Sentiment analytics
+- Live intelligence feed
+- Trend visualization
+- Issue alerts
+- Platform statistics
 
 ---
 
@@ -52,21 +52,21 @@ Platform ini mampu:
 
 ### Backend
 
-* Laravel
-* REST API
-* MySQL
+- Laravel
+- REST API
+- MySQL
 
 ### Frontend
 
-* Vue.js 3
-* Inertia.js
-* Tailwind CSS
-* ApexCharts
+- Vue.js 3
+- Inertia.js
+- Tailwind CSS
+- ApexCharts
 
 ### AI / NLP Engine
 
-* FastAPI
-* Python 3.10+
+- FastAPI
+- Python 3.10+
 
 ---
 
@@ -94,13 +94,13 @@ Vue Dashboard Visualization
 
 Current integrated sources:
 
-* Detikcom
-* CNN Indonesia
-* Republika
-* Antara News
-* Kompas
-* Tempo
-* CNBC Indonesia
+- Detikcom
+- CNN Indonesia
+- Republika
+- Antara News
+- Kompas
+- Tempo
+- CNBC Indonesia
 
 ---
 
@@ -210,10 +210,9 @@ python scraper_news.py
 
 National sentiment monitoring overview.
 
-![Dashboard Preview](public/preview/dashboard1.png)
-![Dashboard Preview](public/preview/dashboard2.png)
-![Dashboard Preview](public/preview/dashboard3.png)
-
+![Dashboard Preview](backend-dashboard/public/preview/dashboard1.png)
+![Dashboard Preview](backend-dashboard/public/preview/dashboard2.png)
+![Dashboard Preview](backend-dashboard/public/preview/dashboard3.png)
 
 ### Monitoring
 
@@ -237,14 +236,14 @@ Data export & reporting module.
 
 Planned improvements:
 
-* WebSocket real-time streaming
-* IndoBERT sentiment model
-* Topic modeling
-* Geographic heatmap
-* Social media integration
-* AI summarization
-* User authentication roles
-* PDF intelligence reporting
+- WebSocket real-time streaming
+- IndoBERT sentiment model
+- Topic modeling
+- Geographic heatmap
+- Social media integration
+- AI summarization
+- User authentication roles
+- PDF intelligence reporting
 
 ---
 
@@ -258,6 +257,6 @@ MIT License
 
 ### Muhammad Farhan Fadholi
 
-* Email: [mufarhan022@gmail.com](mailto:mufarhan022@gmail.com)
-* Instagram: @mufaa.f
-* LinkedIn: Muhammad Farhan Fadholi
+- Email: [mufarhan022@gmail.com](mailto:mufarhan022@gmail.com)
+- Instagram: @mufaa.f
+- LinkedIn: Muhammad Farhan Fadholi
