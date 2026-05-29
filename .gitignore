@@ -26,5 +26,11 @@ Homestead.json
 /storage/pail
 .env.backup
 .env.production
+
+# Python / NLP-Engine
+/nlp-engine/venv/
+__pycache__/
+*.pyc
+.pytest_cache/
 .phpactor.json
 auth.json
